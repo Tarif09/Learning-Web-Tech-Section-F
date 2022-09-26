@@ -1,0 +1,112 @@
+1. <phone_brands>
+ 
+      <brand "Samsung">
+      <id>11</id>
+      <unit_price>35000</unit_price>
+      <stock>50</stock>
+      <status>1</status>
+      </brand>
+ 
+      <brand "HTC">
+      <id>20</id>
+      <unit_price>65300</unit_price>
+      <stock>35</stock>
+      <status>0</status>
+      </brand>
+
+      <brand "Nokia"> 
+      <id>23</id>
+      <unit_price>25100</unit_price>
+      <stock>100</stock>
+      <status>1</status>
+      </brand>
+
+   </phone_brands>
+
+
+
+2. <names>
+
+      <name "John Carter"> 
+      <sl no>23</sl no>
+      <admission_date> 
+        <day>25</day>
+        <month>12</month>
+        <year>2015</year>
+      </admission_date>
+      </name>
+
+      <name "Bob Marshal"> 
+      <sl no>29</sl no>
+      <admission_date> 
+        <day>13</day>
+        <month>01</month>
+        <year>1999</year>     
+      </admission_date>
+      </name> 
+
+      <name "Clark Kent"> 
+      <sl no>35</sl no>
+      <admission_date> 
+        <day>17</day>
+        <month>06</month>
+        <year>2005</year>
+      </admission_date>
+      </name>
+
+   </names>
+
+    
+
+3. <departments>
+
+      <dept "Sales">
+      <name>John Doe</name>
+      <id>1</id>
+      <address>
+         <house>38</house>
+         <road>03</road>
+         <area>Banani, Dhaka</area> 
+      </address>
+      <salary>$20000</salary>
+
+      <dept "Accounts">
+      <name>Mark Zuckerberg</name>
+      <id>2</id>
+      <address>
+         <house>20 "Flat A/1"</house>
+         <road>18</road>
+         <area>Mirpur, Dhaka</area> 
+      </address>
+      <salary>$12000</salary>
+
+      <dept "Human Resource">
+      <name>Ala Voski</name>
+      <id>3</id>
+      <address> 
+         <house>38</house>
+         <road>03</road>
+         <area>Motijheel, Dhaka</area> 
+      </address>
+      <salary>$30000</salary>
+
+   </departments>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
